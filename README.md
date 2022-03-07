@@ -1,4 +1,4 @@
-# Iterative Closest Point
+# Iterative Closest Point (ICP)
 
 <br/>
 
